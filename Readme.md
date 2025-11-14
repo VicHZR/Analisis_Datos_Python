@@ -327,6 +327,15 @@ bashpip install pandas numpy matplotlib seaborn scikit-learn wooldridge
 
 ---
 
+# Repositorio de Ejercicios de Python - Victor Guzman
+
+![Notebook Check](https://github.com/TU_USUARIO/TU_REPO/workflows/📚%20Notebook%20Health%20Check/badge.svg)
+![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+---
+
 ## 👤 Autor
 
 **Victor Guzman**
